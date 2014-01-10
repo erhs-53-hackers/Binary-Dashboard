@@ -7,4 +7,3 @@ Default color values:
 b:0,195
 g:180,255
 r:0,160
-*troll*
